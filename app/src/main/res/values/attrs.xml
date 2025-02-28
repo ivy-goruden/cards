@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="primary" format="color" />
+    <attr name="secondary" format="reference" />
+    <attr name="accent" format="reference" />
+    <attr name="customBgColor" format="reference" />
+
+
+</resources>

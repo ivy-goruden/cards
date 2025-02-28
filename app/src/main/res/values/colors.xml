@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FF0000</color>
+
+    <!-- SHAPES COLORS    -->
+
+    <color name="grey">#D0D0D0</color>
+    <color name="orange">#FFAEA9</color>
+    <color name="blue">#9AC9FD</color>
+    <color name="green">#9FE483</color>
+    <color name="yellow">#FFE587</color>
+    <color name="purple">#DCADFB</color>
+
+<!--    <color name="grey_dark">#A5A5A5</color>-->
+<!--    <color name="orange_dark">#C97095</color>-->
+<!--    <color name="blue_dark">#4B7A9C</color>-->
+<!--    <color name="green_dark">#7CB966</color>-->
+<!--    <color name="yellow_dark">#D1C237</color>-->
+<!--    <color name="purple_dark">#BA5BCA</color>-->
+
+    <!-- MAIN COLORS    -->
+
+    <color name="primary">#EBC799</color>
+    <color name="secondary">#DC9960</color>
+    <color name="accent">#BD433E</color>
+
+<!--    <color name="dark_primary">#443C3D</color>-->
+<!--    <color name="dark_secondary">#B59B79</color>-->
+<!--    <color name="dark_accent">#E2D8CC</color>-->
+
+    <!-- TABLE COLORS   -->
+
+    <color name="first">#FFF</color>
+    <color name="first_shadow">#D1D1D1</color>
+    <color name="second">#EAC996</color>
+    <color name="second_shadow">#C0A57B</color>
+    <color name="third">#DEA86E</color>
+    <color name="third_shadow">#B68A5A</color>
+    <color name="fourth">#BA423B</color>
+    <color name="fourth_shadow">#983630</color>
+    <color name="first_text_colour">#959595</color>
+    <color name="second_text_colour">#FFF</color>
+    <color name="third_text_colour">#FFF</color>
+
+<!--    <color name="dark_first">#FFF</color>-->
+<!--    <color name="dark_first_shadow">#D1D1D1</color>-->
+<!--    <color name="dark_second">#E2D8CC</color>-->
+<!--    <color name="dark_second_shadow">#B9B1A7</color>-->
+<!--    <color name="dark_third">#B49C78</color>-->
+<!--    <color name="dark_third_shadow">#948062</color>-->
+<!--    <color name="dark_fourth">#433D3D</color>-->
+<!--    <color name="dark_fourth_shadow">#373232</color>-->
+<!--    <color name="dark_first_text_colour">#6C6868</color>-->
+<!--    <color name="dark_second_text_colour">#433D3D</color>-->
+<!--    <color name="dark_third_tect_colour">#FFF</color>-->
+
+    <color name="main_background">#EBC799</color>
+    <color name="background">#FFFFFF</color>
+    <color name="usual_text">#000</color>
+    <color name="rules_background">#DC9960</color>
+    <color name="library_text">#000</color>
+
+
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <style name="Theme_Cards" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#DC9960</item>
+        <item name="colorPrimaryVariant">#EBC799</item>
+        <item name="colorOnPrimary">#BD433E</item>
+<!--        <color name="primary">#DC9960</color>-->
+<!--        <color name="secondary">#EBC799</color>-->
+<!--        <color name="accent">#BD433E</color>-->
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+</resources>

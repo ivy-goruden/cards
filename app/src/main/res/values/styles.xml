@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="GreenShape">
+        <item name="android:tint">#00FF00</item>
+    </style>
+
+    <style name="p1">
+        <item name="android:autoSizeMaxTextSize">30sp</item>
+        <item name="android:autoSizeTextType">uniform</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="p2">
+        <item name="android:autoSizeMaxTextSize">26sp</item>
+        <item name="android:textSize">26sp</item>
+        <item name="android:autoSizeTextType">uniform</item>
+    </style>
+    <style name="usual_text">
+        <item name="android:autoSizeMaxTextSize">20sp</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:autoSizeTextType">uniform</item>
+    </style>
+</resources>
